@@ -1,0 +1,4 @@
+makanan
+-nasi goreng 
+-ayam goreng 
+-lawar
